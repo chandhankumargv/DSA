@@ -1,4 +1,5 @@
 class Solution(object):
+    #this probelm shows that of the list contains duplicate elements or not
     def containsDuplicate(self, nums):
         s = set( )
         for num in nums:
